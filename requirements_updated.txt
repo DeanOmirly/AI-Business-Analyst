@@ -1,0 +1,19 @@
+# Core App Dependencies
+streamlit>=1.30.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.2
+python-dotenv>=1.0.0
+
+# LangChain + OpenAI Integration
+langchain>=0.1.13
+langchain-openai>=0.0.8
+langchain-experimental>=0.0.48
+
+# Optional: File parsing and modern Python compatibility
+openai>=1.16.1
+
+# Additional RAG & Document Tools
+langchain-community
+faiss-cpu
+PyMuPDF
